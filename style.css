@@ -1,4 +1,8 @@
-    body      {
+  body, .jumbotron { padding: 30px; }
+    html      {
+      overflow-y: scroll;
+    }  
+body      {
       background: #EFEFEF;
     }
     ul        {
